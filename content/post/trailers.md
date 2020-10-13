@@ -5,4 +5,5 @@ timeToRead = 0
 title = "Trailers"
 
 +++
-{{< youtube id=[XSC-B955g9c](https://www.youtube.com/watch?v=XSC-B955g9c "https://www.youtube.com/watch?v=XSC-B955g9c") >}}
+
+{{< youtube [XSC-B955g9c](https://www.youtube.com/watch?v=XSC-B955g9c "https://www.youtube.com/watch?v=XSC-B955g9c")  >}
