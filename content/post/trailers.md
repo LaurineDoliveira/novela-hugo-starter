@@ -1,6 +1,5 @@
 +++
 date = 2020-10-12T22:00:00Z
-draft = true
 excerpt = "Fréjus 2014 "
 timeToRead = 0
 title = "Trailers"
