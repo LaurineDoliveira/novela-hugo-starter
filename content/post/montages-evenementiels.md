@@ -8,4 +8,4 @@ title = "Montages évènementiels "
 
 ## hello
 
-{{< youtube id="[nlePGPbyqiY](https://www.youtube.com/watch?v=nlePGPbyqiY "https://www.youtube.com/watch?v=nlePGPbyqiY")" >}}
+{{< youtube nlePGPbyqiY >}}
